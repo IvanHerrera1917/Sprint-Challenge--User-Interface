@@ -149,11 +149,13 @@ header{
     justify-content: space-around;
     padding: 5%;
 }
-header .topNav{
+.topNav{
+    width: 30%;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 20%;
+    
+   
    
 }
 .bigImg{
