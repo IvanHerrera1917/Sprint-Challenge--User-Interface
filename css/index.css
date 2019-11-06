@@ -67,7 +67,7 @@ p {
 }
 
 .container {
-    width: 800px;
+    width: 850px;
     margin: 0 auto;
 }
 
@@ -148,12 +148,13 @@ header{
     display: flex;
     justify-content: space-around;
     padding: 5%;
+    width: 100%;
 }
 .topNav{
     width: 30%;
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: flex-end;
 }
 .bigImg{
     display: flex;
@@ -166,27 +167,29 @@ header{
 }
 .topSection{
     display: flex;
-    margin: 0 2% 20px;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 .bottomSection{
     display: flex;
-    margin: 0 2% 20px;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 .firstPart{
     display: flex;
     flex-direction: column;
+    width:47%
 }
 .secondPart{
     display: flex;
     flex-direction: column;
+    width: 47%;
 }
 .thirdPart{
     display: flex;
     flex-direction: column;
+    width: 47%;
 }
 .fourPart{
     display: flex;
     flex-direction: column;
+    width: 47%;
 }
