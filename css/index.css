@@ -154,12 +154,39 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    
-   
-   
 }
 .bigImg{
     display: flex;
-    align-content: center;
+    justify-content: center;
     padding: 1%;
+}
+.container-about-page{
+    padding: 4%;
+    
+}
+.topSection{
+    display: flex;
+    margin: 0 2% 20px;
+    justify-content: space-around;
+}
+.bottomSection{
+    display: flex;
+    margin: 0 2% 20px;
+    justify-content: space-around;
+}
+.firstPart{
+    display: flex;
+    flex-direction: column;
+}
+.secondPart{
+    display: flex;
+    flex-direction: column;
+}
+.thirdPart{
+    display: flex;
+    flex-direction: column;
+}
+.fourPart{
+    display: flex;
+    flex-direction: column;
 }
