@@ -144,3 +144,20 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+header{
+    display: flex;
+    justify-content: space-around;
+    padding: 5%;
+}
+header .topNav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 20%;
+   
+}
+.bigImg{
+    display: flex;
+    align-content: center;
+    padding: 1%;
+}
