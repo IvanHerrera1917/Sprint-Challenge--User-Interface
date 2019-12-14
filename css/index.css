@@ -144,3 +144,72 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+/* My code */
+
+
+header {
+    width: 800px;
+    margin: 0 auto;
+}
+.top {
+    display: flex;
+}
+.navigator {
+    margin-top: 20px; 
+}
+.navigator a{
+   color: black;
+   padding-right: 70px;
+   text-decoration: none;
+}
+.toplogo {
+    padding-right: 35px;
+}
+.hr1 {
+    border: 1px dotted black;
+}
+hr {
+    border: 1px dotted black;
+    display: flex;
+    
+}
+.firstSection {
+    display: flex;
+}
+.firstSection div {
+    padding: 2%;
+}
+.first {
+    display: flex;
+    flex-direction: column;
+    
+}
+.second{
+    display: flex;
+    flex-direction: column;
+    
+}
+.secondSection {
+    display: flex;
+}
+.secondSection div {
+    padding: 2%;
+}
+.third {
+    display: flex;
+    flex-direction: column;
+}
+.fourth {
+    display: flex;
+    flex-direction: column;
+}
+button {
+    color: black;
+    background-color: white;
+    border: 1px solid black;
+    margin-right: 220px; 
+    border-radius: 8px;
+}
+button p {
+    padding: 2%;
+}
